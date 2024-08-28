@@ -16,6 +16,7 @@
 
 ## MISC Guides
 
+* [2FA](misc-guides/2fa.md)
 * [Deploying Weechat](misc-guides/deploying-weechat.md)
 * [Deploying Prometheus Node Exporter](misc-guides/deploying-prometheus-node-exporter.md)
 * [Grow Disk Size](misc-guides/grow-disk-size.md)
